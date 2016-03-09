@@ -1,0 +1,19 @@
+/*{
+	border: 1px solid red;
+} */
+
+h1 {
+	font-family: Lucida Console;
+}
+
+.nav {
+	display: inline;
+}
+
+li {
+	float: right;
+	width: 24%;
+	margin: 5% 0px 3% 0px;
+	padding: 5%;
+}
+
